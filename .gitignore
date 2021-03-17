@@ -1,0 +1,8 @@
+# .gitignore for runxel/computational-design
+
+*.lnk
+*.url
+
+# ignore editor related stuff
+.vscode
+
