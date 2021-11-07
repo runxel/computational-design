@@ -1,6 +1,6 @@
 # Computational Design
 
-This repo contains all my submission for the "Computional Design I" module at the [University of Kassel](https://www.uni-kassel.de/uni/). The seminar was hosted by the chair of Prof. Philipp Eversmann, [EDEK](http://www.uni-kassel.de/fb06/fachgebiete/architektur/edek/home.html).
+This repo contains all my submission for the "Computional Design I" module at the [University of Kassel](https://www.uni-kassel.de/uni/). The seminar was hosted by the chair of Prof. Philipp Eversmann, [EDEK](https://www.uni-kassel.de/fb06/institute/architektur/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/home).
 
 There were 11 assignments. Every exercise is in its own named folder. There were no strict boundaries for the assignments, only topics – you basically had to make your own tasks for the week.  
 Students were expected to submit a self-containing Grasshopper file, and a describing PDF. This repo also holds the code by itself as seperate `.py` files.
